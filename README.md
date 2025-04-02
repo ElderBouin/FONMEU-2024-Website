@@ -1,17 +1,5 @@
-# FONMEU-website
+# FONMEU-website 2024
 
-- View website [here](https://nathanoell.github.io)
-- Github repo for Fonsorbes MEU's website
-- Highly inspired by : [Invicta MUN website](https://github.com/SujanPrasadPandey/Invicta-MUN)
-
-
-
-To start working on it (master branch) (on linux): 
-
-1. `git clone https://github.com/nathanoell/nathanoell.github.io.git`
-2. `cd path/to/git/`
-3. `git checkout master`
-4. Open server (can use something else than php) : `php -S 127.0.0.1:8888`
-
-
-
+- This repository is a fork from https://github.com/nathanoell/FONMEU-2024-Website
+- It is just used to put a website online. The website of the original repository has been shut down because FONMEU 2024 is now finished
+- View website [here](https://elderbouin.github.io/FONMEU-2024-Website/)
